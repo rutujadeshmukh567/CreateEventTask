@@ -1,0 +1,12 @@
+1.COMMANDS FOR CFEATING A REACT PROJECT
+
+npx create-react-app ---your app name here---
+ 
+
+2.AFTER INSTALLING TO RUN  TYPE
+
+npm start
+
+3.TO GO IN RESP FOLDER TYPE
+
+cd ----folder name here-------
